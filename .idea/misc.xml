@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
-        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/src/main/res/layout/layout_pdf_page.xml" value="0.4" />
-        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/src/main/res/layout/recycler_materials_pdf.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/src/main/res/layout/layout_pdf_page.xml" value="0.536" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/src/main/res/layout/recycler_marks.xml" value="0.8" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/src/main/res/layout/recycler_materials_pdf.xml" value="0.264" />
       </map>
     </option>
   </component>

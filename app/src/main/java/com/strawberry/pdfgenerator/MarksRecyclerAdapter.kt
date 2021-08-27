@@ -15,7 +15,7 @@ class MarksRecyclerAdapter(private val subjectMarksList: List<SubjectDetails>) :
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MarksViewHolder {
         val view = LayoutInflater.from(parent.context)
-            .inflate(R.layout.recycler_materials_pdf, parent, false)
+            .inflate(R.layout.recycler_marks, parent, false)
         return MarksViewHolder(view)
     }
 

@@ -85,7 +85,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/marks_label_layout"
-        tools:listitem="@layout/recycler_materials_pdf" />
+        tools:listitem="@layout/recycler_marks" />
 
     <TextView
         android:id="@+id/total_marks_label"

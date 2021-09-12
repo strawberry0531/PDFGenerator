@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/pdfgenerator-databinding/src/main/res/drawable/border.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/pdfgenerator-databinding/src/main/res/layout/activity_main.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/pdfgenerator-databinding/src/main/res/layout/layout_pdf_page.xml" value="0.35208333333333336" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/pdfgenerator-databinding/src/main/res/layout/recycler_marks.xml" value="0.35208333333333336" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/src/main/res/layout/layout_pdf_page.xml" value="0.536" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PDFGenerator/app/src/main/res/layout/recycler_marks.xml" value="0.8" />
